@@ -4,7 +4,7 @@
 
 Welcome to UCLA! To explore the #1 public college, we have prepared a scavenger hunt for you to walk all around the beautiful campus.
 
-![college-tour.lac.tf](https://college-tour.lac.tf/)
+[college-tour.lac.tf](https://college-tour.lac.tf/)
 
 ___
 
