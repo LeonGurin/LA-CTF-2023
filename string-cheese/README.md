@@ -1,6 +1,6 @@
 # rev/string-cheese
 
-**xxx points**
+**112 points**
 
 I'm something of a cheese connoisseur myself. If you can guess my favorite flavor of string cheese, I'll even give you a flag. Of course, since I'm lazy and socially inept, I slapped together a program to do the verification for me.
 

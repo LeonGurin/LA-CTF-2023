@@ -6,7 +6,7 @@
  | discord | 10/10
  | [college-tour](https://github.com/LeonGurin/LA-CTF-2023/tree/main/college-tour) | 100/100
  | [string-cheese](https://github.com/LeonGurin/LA-CTF-2023/tree/main/string-cheese) | 112/112
- | [gatekeep](https://github.com/LeonGurin/LA-CTF-2023/tree/main/gatekeep) | 138/138
+ | gatekeep | 138/138
  | [one-more-time-pad](https://github.com/LeonGurin/LA-CTF-2023/tree/main/one-more-time-pad) | 154/154
  | [caterpillar](https://github.com/LeonGurin/LA-CTF-2023/tree/main/caterpillar) | 200/200
  | finals-simulator (by my friend Omer) | 267/267

@@ -1,6 +1,6 @@
 # crypto/rolling in the mud
 
-**xxx points**
+**179 points**
 
 uugh, these pigs in my pen are making a complete mess! They're rolling all over the place!
 

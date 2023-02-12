@@ -1,6 +1,6 @@
 # crypto/guess-the-bit!
 
-**xxx points**
+**341 points**
 
 I'm trying out for this new game show, but it doesn't seem that hard since there are only two choices? Regardless, I heard someone name Pollard could help me out with it?
 

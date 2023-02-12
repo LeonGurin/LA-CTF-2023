@@ -1,6 +1,6 @@
 # crypto/greek cipher
 
-**xxx points**
+**254 points**
 
 You think you've seen all of the "classic" ciphers? Instead of your standard cipher, I've created my own cipher: the monoalphagreek cipher!
 

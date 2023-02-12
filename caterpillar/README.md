@@ -1,10 +1,10 @@
 # rev/caterpillar
 
-**xxx points**
+**200 points**
 
 -~-~-~-~[]? -~-~-~-~[].
 
-![caterpillar.js](https://github.com/LeonGurin/LA-CTF-2023/blob/main/caterpillar/caterpillar.js)
+[caterpillar.js](https://github.com/LeonGurin/LA-CTF-2023/blob/main/caterpillar/caterpillar.js)
 
 ___
 
