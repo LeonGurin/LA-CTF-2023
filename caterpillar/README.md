@@ -4,7 +4,7 @@
 
 -~-~-~-~[]? -~-~-~-~[].
 
-![caterpillar.js]()
+![caterpillar.js](https://github.com/LeonGurin/LA-CTF-2023/blob/main/caterpillar/caterpillar.js)
 
 ___
 

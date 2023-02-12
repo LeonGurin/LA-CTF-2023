@@ -6,7 +6,7 @@ I heard about this cool theorem called the Chinese Remainder Theorem, but, uh...
 
 `nc lac.tf 31110`
 
-![chinese-lazy-theorem-1.py]()
+![chinese-lazy-theorem-1.py](https://github.com/LeonGurin/LA-CTF-2023/blob/main/chinese-lazy-theorem-1/chinese-lazy-theorem-1.py)
 
 ___
 

@@ -8,7 +8,7 @@ Anyway, can you decode this cipher they gave me, almost throwing it at me while 
 
 Answer in lowercase with symbols. In the image, { and } are characters that should appear in your flag, and replace spaces with _.
 
-*Given:* [cipher.png]()
+*Given:* [cipher.png](https://github.com/LeonGurin/LA-CTF-2023/blob/main/rolling%20in%20the%20mud/cipher.png)
 
 ___
 

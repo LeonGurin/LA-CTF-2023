@@ -8,6 +8,8 @@ Connect to my service at `nc lac.tf 31131`
 
 Note: The attached binary is the exact same as the one executing on the remote server.
 
+*Given:* [string_cheese](https://github.com/LeonGurin/LA-CTF-2023/blob/main/string-cheese/string_cheese)
+
 ___
 
 When we run the program we are asked `What's my favorite flavor of string cheese?` and we need to provide an answer to the prompt.

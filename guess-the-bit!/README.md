@@ -6,7 +6,7 @@ I'm trying out for this new game show, but it doesn't seem that hard since there
 
 `nc lac.tf 31190`
 
-*Given:* [chall.py]()
+*Given:* [chall.py](https://github.com/LeonGurin/LA-CTF-2023/blob/main/guess-the-bit!/chall.py)
 
 ___
 

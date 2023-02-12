@@ -6,7 +6,7 @@ You think you've seen all of the "classic" ciphers? Instead of your standard cip
 
 Answer with just the flag in lowercase with symbols left in.
 
-*Given:* [greek.txt]()
+*Given:* [greek.txt](https://github.com/LeonGurin/LA-CTF-2023/tree/main/greek%20cipher/greek.txt)
 
 ___
 

@@ -4,7 +4,7 @@
 
 I heard the onetime pad is perfectly secure so I used it to send an important message to a friend, but now a UCLA competition is asking for the key? I threw that out a long time ago! Can you help me recover it?
 
-*Given:* [chall.py]()
+*Given:* [chall.py](https://github.com/LeonGurin/LA-CTF-2023/blob/main/one-more-time-pad/chall.py)
 
 ___
 We are given the following program:
